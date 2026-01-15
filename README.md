@@ -1,6 +1,6 @@
 # RTSP Livestream Overlay Web Application
 
-## A web-based application that allows users to play a livestream video and add custom overlays (text and images) on top of the video in real time. Users can create, move, resize, update, and delete overlays dynamically.
+ A web-based application that allows users to play a livestream video and add custom overlays (text and images) on top of the video in real time. Users can create, move, resize, update, and delete overlays dynamically.
 
 This project was built as part of an internship assignment to demonstrate skills in frontend development, backend APIs, real-time UI interaction, and data persistence.
 
